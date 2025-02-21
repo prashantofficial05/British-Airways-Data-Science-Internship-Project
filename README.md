@@ -1,8 +1,6 @@
 # British Airways Data Science Internship Project
 British Airways Data Science Virtual Internship
 
-# British Airways Data Science Project  
-
 ## 🛫 Overview  
 This project provides an opportunity to step into the shoes of a British Airways Data Scientist and complete tasks that replicate real-world work accomplished by the British Airways Data Science team. The project consists of two tasks:  
 
