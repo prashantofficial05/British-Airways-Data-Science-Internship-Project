@@ -3,7 +3,7 @@ British Airways Data Science Virtual Internship
 
 ---
 
-## certificate
+## Certificate
 Completion certificate link: [Certificate ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_QtXw4YTEezNMvJ49A_1740134197822_completion_certificate.pdf).
 
 ## 🛫 Overview  
